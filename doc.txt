@@ -1,2 +1,8 @@
+Exercice1:
+1-
+def suite(a, N): x0 = a + 1
+ x = [x0]
+ for n in range(N):
+ xn = 1/2 * (x[n] + (a / x[n])) x.append(xn) 
+return x
 
-TEST
