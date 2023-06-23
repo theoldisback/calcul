@@ -137,6 +137,11 @@ for p in range(1, 7):
 #Pour p=6 : Erreur d'approximation = 6.619510151778689
 
 
+b/ est le degré pour lequel l'erreur d'approximation est minimale. 
+Donc, le degré du polynôme qui passe par les points de la trajectoire de la fusée est 6.
+
+
+
 
 
 
