@@ -43,6 +43,18 @@ plt.legend()
 
 plt.show()
 
+c)
+#	la limite est la racine carree de a
+
+d)
+a = 50
+N = 4
+
+x_values = suite(a, N)
+approx_sqrt_50 = x_values[-1]
+
+print("Valeur approchée de √50 :", approx_sqrt_50)
+#Valeur approchée de √50 : 7.07106
 
 ---Exercice 2
 PARTIE 1
